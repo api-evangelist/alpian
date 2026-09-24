@@ -1,0 +1,12 @@
+{
+  "generated": "2026-09-24",
+  "method": "none",
+  "deployment": {
+    "mode": "none",
+    "endpoint": "https://api.alpian.com",
+    "install": "",
+    "package": "",
+    "auth": "none",
+    "verified": "probed"
+  }
+}

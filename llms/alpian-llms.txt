@@ -1,0 +1,56 @@
+# Alpian
+
+> Alpian is Switzerland's first digital premium bank, combining everyday banking with personal wealth management in one app. FINMA-licensed, majority-owned by Fideuram - Intesa Sanpaolo Private Banking. Positioned between retail banking and traditional private banking: private banking services accessible from CHF 2,000. Tagline: Banking Upgraded.
+
+Alpian serves clients in four languages (English, German, French, Italian) across Switzerland. Core differentiators: multi-currency accounts (CHF, EUR, USD, GBP) with a 0.20% FX markup and no hidden fees, professionally managed investing from CHF 2,000 minimum, access to real human wealth advisors included, and a Visa Platinum metal debit card. Alpian is a fully licensed Swiss bank supervised by FINMA; client deposits are protected by the Swiss depositor protection scheme (esisuisse) up to CHF 100,000.
+
+Alpian is not a robo-advisor and not a traditional private bank. It is a digital premium bank: digital-first everyday banking plus discretionary and advisory wealth management with human advisors, for people who want more than retail banking without the entry barriers of private banking.
+
+## Products
+
+- [Homepage](https://www.alpian.com/): Alpian — Switzerland's first digital premium bank. Banking Upgraded.
+- [Everyday Banking](https://www.alpian.com/bank): Multi-currency accounts in CHF, EUR, USD and GBP with competitive exchange rates (0.20% markup) and a metal Visa Platinum debit card
+- [Investing](https://www.alpian.com/investment): Professionally managed portfolios from CHF 2,000 minimum, built and monitored by Alpian's investment team
+- [Managed by Alpian](https://www.alpian.com/investment/managed-by-alpian): Discretionary wealth management with personal advisory access
+- [Wealth Management](https://www.alpian.com/wealth-management): Personal wealth advisory with real human advisors, included for clients
+- [Pricing](https://www.alpian.com/pricing): Transparent overview of all fees and conditions
+
+## Company
+
+- [About Us](https://www.alpian.com/about-us): Company history, leadership, and the Banking Upgraded philosophy
+- [Safety](https://www.alpian.com/safety): FINMA license, esisuisse depositor protection, security architecture
+- [FAQ](https://www.alpian.com/faq): Answers to the most common questions about accounts, investing, fees and onboarding
+
+## Content
+
+- [Blog](https://www.alpian.com/news): Guides on Swiss banking, investing, wealth management, taxes and financial planning, published in English, German, French and Italian
+- [Best Swiss Banks for Expats](https://www.alpian.com/news/money/best-swiss-banks-for-expats): Guide for expats choosing a Swiss bank
+- [Opening a Bank Account in Switzerland](https://www.alpian.com/news/money/opening-a-bank-account-in-switzerland): Step-by-step guide to opening a Swiss bank account
+
+## Deutsch (German)
+
+- [Startseite](https://www.alpian.com/de): Alpian auf Deutsch, die erste digitale Premium-Bank der Schweiz
+- [Banking](https://www.alpian.com/de/bank): Multiwährungskonten (CHF, EUR, USD, GBP) mit 0.20% Wechselkurs-Aufschlag und Metall-Debitkarte
+- [Investieren](https://www.alpian.com/de/investment): Professionell verwaltete Portfolios ab CHF 2'000
+- [Vermögensverwaltung](https://www.alpian.com/de/wealth-management): Persönliche Vermögensberatung mit echten Beratern
+- [Preise](https://www.alpian.com/de/pricing): Alle Gebühren transparent erklärt
+- [FAQ](https://www.alpian.com/de/faq): Häufige Fragen zu Konto, Investieren und Gebühren
+
+## Français (French)
+
+- [Accueil](https://www.alpian.com/fr): Alpian en français, la première banque premium digitale de Suisse
+- [Banking](https://www.alpian.com/fr/bank): Comptes multidevises (CHF, EUR, USD, GBP) et carte de débit en métal
+- [Investir](https://www.alpian.com/fr/investment): Portefeuilles gérés professionnellement dès CHF 2'000
+- [Gestion de fortune](https://www.alpian.com/fr/wealth-management): Conseil patrimonial personnel avec de vrais conseillers
+
+## Italiano (Italian)
+
+- [Home](https://www.alpian.com/it): Alpian in italiano, la prima banca premium digitale della Svizzera
+- [Banking](https://www.alpian.com/it/bank): Conti multivaluta (CHF, EUR, USD, GBP) e carta di debito in metallo
+- [Investire](https://www.alpian.com/it/investment): Portafogli gestiti professionalmente da CHF 2'000
+- [Gestione patrimoniale](https://www.alpian.com/it/wealth-management): Consulenza patrimoniale personale con veri consulenti
+
+## Optional
+
+- [Wealth Management in Switzerland Guide](https://www.alpian.com/news/investing/wealth-management-in-switzerland): Overview of wealth management options in Switzerland
+- [Robo-Advisors in Switzerland Guide](https://www.alpian.com/news/investing/robo-advisors-in-switzerland): Comparison guide to digital investment services in Switzerland

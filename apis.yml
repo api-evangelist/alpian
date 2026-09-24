@@ -1,23 +1,85 @@
 aid: alpian
+
 name: Alpian
+
+image: https://a.storyblok.com/f/123585/3000x2000/33256f7551/hero_homepage_redesign.png
+
 description: 'Alpian is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
   and added to the network as a stub for full-pipeline profiling.'
+
 url: https://raw.githubusercontent.com/api-evangelist/alpian/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-24 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-24'
+
 modified: '2026-09-24'
+
 tags:
-- Company
-apis: []
+- Banking
+- Savings
+- Investing
+- Pillar 3a
+- Multi‑currency
+- Debit card
+- Neobank
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/alpian-llms.txt
+- type: SecurityTxt
+  url: well-known/alpian-clarity-security.txt
+- type: WellKnown
+  url: well-known/alpian-well-known.yml
+- type: Plans
+  url: plans/alpian-plans-pricing.yml
+- type: Security
+  url: https://clarity.com/vdp
+- type: Hosts
+  url: hosts/alpian-hosts.yml
+- type: Vendors
+  url: vendors/alpian-vendors.yml
+- type: TermsOfService
+  url: https://www.blog.alpian.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.blog.alpian.com/privacy-policy
+- type: Pricing
+  url: https://www.alpian.com/pricing
+- type: Newsroom
+  url: https://www.alpian.com/news
+- type: VulnerabilityDisclosure
+  url: security/alpian-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/alpian-domain-security.yml
 - type: Website
-  url: https://www.hiive.com/securities/alpian-stock
+  url: https://www.alpian.com/
+
+apis: []
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-09-24'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+x-enrichment:
+  date: '2026-09-24'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

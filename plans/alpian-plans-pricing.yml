@@ -1,0 +1,45 @@
+generated: '2026-09-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.alpian.com/pricing
+sources:
+- https://www.alpian.com/pricing
+name: Alpian pricing
+audience: consumer
+pricing_basis: per-call
+plans:
+- name: Standard Plan
+  price_text: 0.75% per year
+  price: 0.75
+  description: Investment solutions (Standard Plan) rate
+- name: Signature Plan Tier 1
+  price_text: 0.69% per year
+  price: 0.69
+  description: Up to CHF 300’000 invested
+- name: Signature Plan Tier 2
+  price_text: 0.60% per year
+  price: 0.6
+  description: From CHF 300’000 to 500’000 invested
+- name: Signature Plan Tier 3
+  price_text: 0.50% per year
+  price: 0.5
+  description: From CHF 500’000 invested
+- name: Visa metal card
+  price_text: CHF 60, upon request
+  price: 60
+  description: Visa metal card issuance
+- name: Visa Metal card replacement
+  price_text: CHF 60, upon request
+  price: 60
+  description: Replacement of Visa metal card
+- name: ATM withdrawal – CHF within Switzerland
+  price_text: CHF 2
+  price: 2
+  description: ATM withdrawal fee in CHF within Switzerland
+- name: ATM withdrawal – EUR, USD, GBP within Switzerland
+  price_text: EUR 5, USD 5, GBP 5
+  description: ATM withdrawal fee in EUR, USD, GBP within Switzerland
+- name: ATM withdrawal outside Switzerland
+  price_text: 2.5% of the transaction amount
+  description: ATM withdrawal fee outside Switzerland
+docs: https://www.alpian.com/pricing
