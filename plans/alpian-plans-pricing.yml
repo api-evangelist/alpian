@@ -43,3 +43,64 @@ plans:
   price_text: 2.5% of the transaction amount
   description: ATM withdrawal fee outside Switzerland
 docs: https://www.alpian.com/pricing
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - subscription
+  units: []
+  plans:
+  - name: Standard Plan
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Signature Plan Tier 1
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Signature Plan Tier 2
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Signature Plan Tier 3
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Visa metal card
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Visa Metal card replacement
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: ATM withdrawal – CHF within Switzerland
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: ATM withdrawal – EUR, USD, GBP within Switzerland
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: ATM withdrawal outside Switzerland
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
